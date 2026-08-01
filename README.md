@@ -7,5 +7,3 @@ The lower mass gap spans approximately 2.5 to 5 M⊙ and represents a region in 
 ## Reference
 
 Jeehoo Shin. "Investigation of Formation Channels of Mass-Gap Black Holes from Spin Distributions." National High School Journal of Science, 2026, https://nhsjs.com/2026/investigation-of-formation-channels-of-mass-gap-black-holes-from-spin-distributions/.
-
-[https://nhsjs.com/2026/investigation-of-formation-channels-of-mass-gap-black-holes-from-spin-distributions/](url)
